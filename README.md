@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![freepik__background__30320](https://github.com/user-attachments/assets/d496047b-ea11-4b90-8c28-fbb8327a37e1)
 
@@ -7,7 +8,7 @@ Landing page for the Converse store built using React, Vite, JavaScript and Tail
 
 ## Live Demo
 
-https://converse-store.vercel.app/
+https://shoe-site-eta.vercel.app/
 
 ## Features
 
@@ -41,3 +42,7 @@ https://converse-store.vercel.app/
    npm run dev
 
 
+=======
+# shoe-site
+Demo shoe site
+>>>>>>> b56da5328a98c301982bbccd20628116bebf28c7
